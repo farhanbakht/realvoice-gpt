@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RealVoice GPT | AI Writing, Your Voice</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f7f9ff;
+      color: #17243c;
+      text-align: center;
+    }
+    main { max-width: 760px; margin: 90px auto; padding: 24px; }
+    h1 { font-size: 48px; margin-bottom: 12px; }
+    p { font-size: 19px; line-height: 1.7; }
+    a.button {
+      display: inline-block;
+      padding: 16px 30px;
+      background: #2563eb;
+      color: white;
+      border-radius: 12px;
+      text-decoration: none;
+      margin-top: 20px;
+    }
+    footer { margin-top: 80px; font-size: 14px; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>RealVoice GPT</h1>
+    <h2>AI Writing. Your Voice.</h2>
+    <p>Turn robotic AI-generated content into natural,
+    human-sounding writing in seconds.</p>
+    <p>Perfect for LinkedIn posts, emails, social media,
+    and everyday communication.</p>
+    <p>Created by Farhan Bakht. Free to use.</p>
+    <a class="button" href="https://chatgpt.com/g/g-6ac86011b9108191be3155fa730db42e-realvoice-gpt">
+      Try RealVoice GPT Free
+    </a>
+    <footer>
+      <p>RealVoice GPT &copy; 2026</p>
+    </footer>
+  </main>
+</body>
+</html>
